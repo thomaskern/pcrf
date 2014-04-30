@@ -13,12 +13,12 @@ PCRF is a open source implementation of (Linear) Conditional Random Fields (CRFs
 
 # Implemented in python, numpy, scipy. 100% python.
 # Fast training based on LBFGS( a quasi-newton algorithm for large scale numerical optimization problem)
-# Less memory usage in training, can handel tens of millions features.
+# Less memory usage in training, can handle tens of millions features.
 # decoding in practical time
 # Available as an open source software
 # Train file format and Feature template are compatible with popular CRF implementations, like CRF++
 # Multiprocessing
-# optimized for less energy conssumption and CO2 emission. (can ran half the speed as CRF++)
+# optimized for less energy consumption and CO2 emission. (can ran half the speed as CRF++)
 
 == Versions ==
 
